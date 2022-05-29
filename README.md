@@ -3,6 +3,7 @@ Internship task
 
 
 # Task 1
+https://colab.research.google.com/drive/12oMsqrAr-IxjDbgbsx522iu6mb39wgv1?usp=sharing
 
 * I have used Beautiful Soup for this task
 * At first I loaded the .csv file and stored it in a dataframe, and extracted the country and asin lists from it.
@@ -22,7 +23,9 @@ Internship task
 * As a result, in the end we are left with a list of dictionaries, where each entry gives us the details of a particular product in the corresponding URL.
 * The data is then saved in a JSON file and displayed.
 
+
 # Bonus Task (Included in both the .ipynb files)
+https://colab.research.google.com/drive/1ipAsgzb_AQhGjm7y8ggyZ-cYZU72Oi6Y?usp=sharing
 
 * Using requests and Beautiful soup, the captcha website URL is scraped, as all img 'src' source links are scraped.
 * Upon inspection of the page source, it was deduced, that the first source link, that has been scraped, contains the image of the CAPTCHA
